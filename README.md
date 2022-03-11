@@ -8,12 +8,12 @@ To run this web application follow the below steps
 
 2.	[Download](https://www.postgresql.org/download/) and run PostgreSQL installer
       
-            When installer prompts to enter password, enter: root
+      - When installer prompts to enter password, enter: root
       
 3.	Open pgAdmin from Start or Search
 4.	Go to Servers > PostgreSQL > Databases
             
-            When prompted to enter password enter: root
+      - When prompted to enter password enter: root
       
 5.	Right click on Databases
 6.	Select Create > Database…
@@ -27,7 +27,7 @@ To run this web application follow the below steps
 14.	Run npx sequelize-cli db:migrate
 15.	Run npm start
             
-            Enter 'ctrl + C' to close
+      - Enter 'ctrl + C' to close
             
 16.	Open another cmd window
 17.	Open to_do_app and copy the directory path
