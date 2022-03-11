@@ -31,6 +31,6 @@ To run this web application follow the below steps
             
 16.	Open another cmd window
 17.	Open to_do_app and copy the directory path
-18.	In cmd type “'cd '“ and paste the path. Press Enter
+18.	In cmd type "cd " and paste the path. Press Enter
 19.	Run npm install
 20.	Run npm start
